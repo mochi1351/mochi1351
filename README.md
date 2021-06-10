@@ -8,10 +8,10 @@ My name is ** Okoh chuks vani (mochi vani) ** and I try to be involved in the co
  
 
 ## Find me on
-* Creating content on Blog : [link to Blog Page!](http://google.com)
+* Creating content on Blog : [Blog Page!](http://google.com)
 * Being social on : 
-       [link to facebook!](http://google.com)
-       [link to Twitter!](http://google.com)
-       [link to Linkedin!](http://google.com)
+       [facebook!](http://google.com)
+       [Twitter!](http://google.com)
+       [Linkedin!](http://google.com)
      
    
