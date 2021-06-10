@@ -1,4 +1,4 @@
-##Hello there 👋
+#Hello there 👋
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
@@ -7,12 +7,11 @@ My name is ** Okoh chuks vani (mochi vani) ** and I try to be involved in the co
 
  
 
-### Find me on
+## Find me on
 * Creating content on Blog : [link to Blog Page!](http://google.com)
 * Being social on : 
-     ``` 
        [link to facebook!](http://google.com)
        [link to Twitter!](http://google.com)
        [link to Linkedin!](http://google.com)
-     ```
+     
    
