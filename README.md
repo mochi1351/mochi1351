@@ -1,16 +1,18 @@
-### Hi there 👋
+##Hello there 👋
 
-<!--
-**mochi1351/mochi1351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-Here are some ideas to get you started:
+My name is ** Okoh chuks vani (mochi vani) ** and I try to be involved in the community through creating content, talking to other developers and participating on Twitter, love eating especially, and sort of an assholes. Nice,
+@mochi1351 :+1: Please you can reach out, - if you would like to chat! :shipit:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+### Find me on
+* Creating content on Blog : [link to Blog Page!](http://google.com)
+* Being social on : 
+     ``` 
+       [link to facebook!](http://google.com)
+       [link to Twitter!](http://google.com)
+       [link to Linkedin!](http://google.com)
+     ```
+   
