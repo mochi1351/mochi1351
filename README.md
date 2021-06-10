@@ -8,10 +8,10 @@ My name is ** :nigeria: :nigeria: Okoh chuks vani (mochi vani) :nigeria: :nigeri
  
 
 ## Find me on :earth_africa:
-* Creating content on Blog : [Blog Page!](http://google.com)
+* Creating content on Blog : [Blog Page](http://google.com)
 * Being social on : 
-       [facebook!](http://google.com)
-       [Twitter!](http://google.com)
-       [Linkedin!](http://google.com)
+       [facebook](http://google.com)
+       [Twitter](http://google.com)
+       [Linkedin](http://google.com)
      
    
