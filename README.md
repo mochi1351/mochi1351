@@ -23,7 +23,7 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 ##### Languages I use
-
+![Solidity](https://img.shields.io/badge/Solidity-smart%20contract-blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -31,18 +31,20 @@
 
 ##### Some of the technologies I have worked with
 
+![truffle](https://img.shields.io/badge/truffle-truffle-red)
+![web3](https://img.shields.io/badge/web3-web3.js%2Fweb3.py-blue)
+![Ganache](https://img.shields.io/badge/Ganache-Ganache-orange)
+![Metamask](https://img.shields.io/badge/MetaMask-MetaMask-orange)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
-##### Some of my favorite open source projects
+##### Some of my favorite open source i love
 
-[![Bitwarden](https://img.shields.io/badge/-Bitwarden-444444?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden)
-[![Dark Reader](https://img.shields.io/badge/-Dark&#32;Reader-444444?style=flat&logo=Dark-Reader&logoColor=2f7485)](https://github.com/darkreader/darkreader)
-[![uBlock Origin](https://img.shields.io/badge/-uBlock&#32;Origin-444444?style=flat&logo=UBlock-Origin&logoColor=800000)](https://github.com/gorhill/uBlock)
-[![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-[![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
+![Ethereum](https://img.shields.io/badge/Ethereum-Blockchain-orange)
+![MoneyLego](https://img.shields.io/badge/Money%20-Legos-red)
+![Unswap](https://img.shields.io/badge/Uniswap-%20Arbitrage%20Analysis%20-yellow)
+![Ava](https://img.shields.io/badge/Aave%20-Liquidation-blue)
+
