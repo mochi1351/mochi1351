@@ -23,7 +23,7 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 ##### Languages I use
-![Solidity](https://img.shields.io/badge/Solidity-smart%20contract-blue)
+![Solidity](https://img.shields.io/badge/Solidity-language-blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
