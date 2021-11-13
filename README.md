@@ -11,7 +11,7 @@
 - 📝 I am a brother, Cousin and Full-stack developer, blockchain Developer
 - 🏦 I'm currently Learning about blockchain techology 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.javascript```,``` .python```, ```.FLask,
+- 🤔 I use daily ```.javascript```,``` .python```, ```.FLask
 - 🌱 I’m currently learning Docker, Ansible, Vagrant, Github Action, Terraform Technology.
 - 💬 Talk to me about python Automation and Restful Api.
 - 😄 Pronouns: He/Him
@@ -23,7 +23,7 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 ##### Languages I use
-![Solidity](https://img.shields.io/badge/Solidity-language-blue)
+![bash](https://img.shields.io/badge/bash-language-blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
