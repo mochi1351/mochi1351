@@ -11,9 +11,9 @@
 - 📝 I am a brother, Cousin and Full-stack developer, blockchain Developer
 - 🏦 I'm currently Learning about blockchain techology 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.javascript```,``` .python```, ```.Solidity,```.web3,```.FLask,```.Metamask,```.Ethscan,```.Flutter,```
-- 🌱 I’m currently learning docker Techology
-- 💬 Talk to me about Blockchain, python (both of these are something i love talking about especially DeFi)
+- 🤔 I use daily ```.javascript```,``` .python```, ```.FLask,
+- 🌱 I’m currently learning Docker, Ansible, Vagrant, Github Action, Terraform Technology.
+- 💬 Talk to me about python Automation and Restful Api.
 - 😄 Pronouns: He/Him
 
 
@@ -30,11 +30,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Some of the technologies I have worked with
-
-![truffle](https://img.shields.io/badge/truffle-truffle-red)
-![web3](https://img.shields.io/badge/web3-web3.js%2Fweb3.py-blue)
-![Ganache](https://img.shields.io/badge/Ganache-Ganache-orange)
-![Metamask](https://img.shields.io/badge/MetaMask-MetaMask-orange)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
@@ -42,7 +37,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
-##### Some of my favorite open source i love
+##### Some of my favorite crypto technology i love
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-Blockchain-orange)
 ![MoneyLego](https://img.shields.io/badge/Money%20-Legos-red)
