@@ -8,12 +8,12 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 About Me:
-- 📝 I am a brother, Cousin and Full-stack developer, blockchain Developer
+- 📝 I am a brother, Cousin and Full-stack developer, DevOp Evangelist
 - 🏦 I'm currently Learning about blockchain techology 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.javascript```,``` .python```, ```.FLask
 - 🌱 I’m currently learning Docker, Ansible, Vagrant, Github Action, Terraform Technology.
-- 💬 Talk to me about python Automation and Restful Api.
+- 💬 Talk to me about python Automation and Restful Api,aws,digitalocean,Azure and Google Cloud
 - 😄 Pronouns: He/Him
 
 
