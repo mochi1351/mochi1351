@@ -1,16 +1,17 @@
 [![MasterHead](https://bentrubewriter.files.wordpress.com/2014/09/facebook-sweden-datacenter-racks.jpg)](#)
-<h1 align="center">Hi 👋, I'm Okoh Chuks Vani (Mochi Vani)</h1>
-<h3 align="center">A software developer, passionate about technology. who loves getting to know people, having a conversation. That is just me</h3>
+<h2 align="center">👋Hello there, fellow software enthusiasts! My name is Mochi Vani, and I am passionate about all things related to software development.</h2>
+<h3 align="center">I believe that software has the power to transform the world we live in, and I am constantly seeking ways to improve my skills and knowledge in this exciting field.</h3>
 <img align="right" alt="Coding" width="400" src="https://data.whicdn.com/images/235198958/original.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mochi1351&label=Profile%20views&color=0e75b6&style=flat" alt="mochi1351" /> </p>
+<h2>Me</h2>
+ <p>
+I'm particularly interested in algorithmic trading and have spent a lot of time developing and backtesting trading strategies. I'm also a big fan of Flask and bash scripting, which I use to create web applications and automate tasks.</p>
+<h2>DevOps Friendly</h2>
+<p>
+  As a lover of DevOps, I believe in the importance of collaboration between developers and operations teams to create reliable and scalable systems. I'm constantly exploring ways to improve my skills in this area and apply best practices to my projects.</p>
+ 
+ 
 
-- 🌱 I’m currently learning **About DevOps**
-
-- 💬 Ask me about **Kubernetes, GitHub Action, Docker And Terraform**
-
-- 📫 How to reach me **Mochivani2022@gmail.com**
-
-- ⚡ Fun fact **I think I'm a funny person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
