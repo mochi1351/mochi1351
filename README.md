@@ -10,9 +10,9 @@ Let's collaborate and code something extraordinary together! 💻
 
 ## 💼 Skills & Expertise
 
-- **Languages:** Python, [Other Languages]
+- **Languages:** Python,javascript, bash
 - **Development:** Full-stack Development, No-Code, Low-Code
-- **Tools & Frameworks:** [List of tools and frameworks]
+- **Tools & Frameworks:** flask, nextjs
 
 ## 🌱 Current Focus
 
@@ -20,9 +20,9 @@ Exploring new realms of technology, pushing boundaries, and making a positive im
 
 ## 📫 Let's Connect
 
-- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/vani-chuks-okoh-348a66179/)]
-- Twitter: [[Your Twitter Handle](https://twitter.com/mochi_vani)]
-- Portfolio: [Your Portfolio Website]
+- LinkedIn: [[LinkedIn](https://www.linkedin.com/in/vani-chuks-okoh-348a66179/)]
+- Twitter: [[Twitte](https://twitter.com/mochi_vani)]
+
 
 Feel free to reach out, whether it's for collaboration, opportunities, or just a good old tech chat. Let's make magic happen! ✨
 
